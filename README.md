@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Mehmet Batuhan Neziroğlu. I am a student at Bilkent University and studying Computer Science now.
 
 <!--
 **Mehmet-Batuhan-Neziroglu/Mehmet-Batuhan-Neziroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
